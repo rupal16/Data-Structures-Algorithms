@@ -1,4 +1,5 @@
 # Data Structures & Algorithms
+<h3>Contents : </h3>
 
-<h2>Linear Search</h2>
-<h2>Binary Search</h2>
+<h5>Linear Search</h5>
+<h5>Binary Search</h5>
