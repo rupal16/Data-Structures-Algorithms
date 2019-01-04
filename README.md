@@ -3,3 +3,4 @@
 
 <h5>Linear Search</h5>
 <h5>Binary Search</h5>
+<h5>Merge Sort</h5>
